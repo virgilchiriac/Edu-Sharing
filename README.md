@@ -13,7 +13,7 @@ More information can be found on the [homepage](http://www.edu-sharing.com).
 
 Where can I get the latest release?
 -----------------------------------
-You can download source and binaries from our [download page](http://edu-sharing.com/recources/?lang=en).
+You can download source and binaries from our [download page](http://edu-sharing.com/downloads/?lang=en).
 
 Contributing
 ------------
